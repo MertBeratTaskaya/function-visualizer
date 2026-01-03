@@ -32,13 +32,16 @@ An interactive Python tool for visualizing common mathematical functions with cu
 
 ## 🚀 Getting Started
 
-### Installation
 ```bash
-pip install numpy matplotlib mplcursors
-Run
-bash
-Kodu kopyala
-python function_visualizer.py
+# 1 – Clone the repository
+$ git clone https://github.com/MertBeratTaskaya/python-function-visualizer.git
+$ cd python-function-visualizer
+
+# 2 – Install dependencies
+$ pip install numpy matplotlib mplcursors
+
+# 3 – Run the application
+$ python function_visualizer.py
 ```
 📝 Notes
 Trigonometric inputs are interpreted in degrees
